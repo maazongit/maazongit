@@ -36,4 +36,4 @@
 
 [<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=db00db" alt="Instagram logo" title="Instagram" height="25" />](https://www.instagram.com/mudassir.ia/)
 &nbsp;
-[<img src="https://img.shields.io/badge/mudassirimranansari@gmail.com-282C34?logo=gmail&logoColor=0077B5" alt="G-Mail logo" title="G-Mail" height="25" />]()
+[<img src="https://img.shields.io/badge/mudassiransarigithub@gmail.com-282C34?logo=gmail&logoColor=0077B5" alt="G-Mail logo" title="G-Mail" height="25" />]()
