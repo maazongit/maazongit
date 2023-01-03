@@ -1,39 +1,24 @@
-<h2> Hi, I'm Ansari Mohd Mudassir! <img src="https://media3.giphy.com/media/VFGsPXfFeIcGdtwAIC/200.webp?cid=ecf05e47y3ib24yq1o8ig2z6cdo2fj38nc6bdly0gojbzwvy&rid=200.webp&ct=s" width="50"></h2>
-<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
-<p><em>Software Engineer at <a href="https://eventsmhssp.in/">M. H. Saboo Siddik Polytechnic</a>
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-</em></p>
-</br>
-
-**Currently working with:**
-
-[<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" />](https://www.java.com/en/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />](https://www.python.org/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="NodeJS logo" title="Node.js" height="25" />](https://www.nodejs.org/)
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />](https://html.spec.whatwg.org/tn)
-&nbsp;
-[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />](https://www.java.com/en/)
-&nbsp;
+# 💫 About Me:
+🔭 I’m currently working on Attendance Tracking System using GPS<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with WebDev Skills<br>🌱 I’m currently learning Python<br>⚡ Fun fact - I've never been myself ever since I was born
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mudassir.ia) 
 
-[![Mudassir's github stats](https://github-readme-stats.vercel.app/api?username=maazongit&show_icons=true&theme=merko)](https://github.com/maazongit)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=maazongit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=maazongit&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maazongit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 👾  What I am interested in learning at some point
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
+---
+[![](https://visitcount.itsvg.in/api?id=maazongit&icon=2&color=0)](https://visitcount.itsvg.in)
 
-
-## 🔍  Where to find me
-
-[<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=db00db" alt="Instagram logo" title="Instagram" height="25" />](https://www.instagram.com/mudassir.ia/)
-&nbsp;
-[<img src="https://img.shields.io/badge/mudassiransarigithub@gmail.com-282C34?logo=gmail&logoColor=0077B5" alt="G-Mail logo" title="G-Mail" height="25" />]()
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
